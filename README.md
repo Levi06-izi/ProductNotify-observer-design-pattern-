@@ -1,1 +1,2 @@
-# TwitterClone-0
+# Observer Design Pattern for product notify
+
